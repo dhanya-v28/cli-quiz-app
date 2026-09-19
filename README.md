@@ -53,7 +53,3 @@ Open the terminal in the project folder and run:
 ```bash
 python quiz.py
 ```
-
-## Note
-
-This is a command-line based project developed as part of the college Technical Society task of Programming Domain.
